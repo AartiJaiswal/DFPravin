@@ -9,7 +9,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"container": "trackchange2"
+				"container": "trackchange3"
 			},
 			"columnDelimiter": "$",
 			"escapeChar": "\\",
