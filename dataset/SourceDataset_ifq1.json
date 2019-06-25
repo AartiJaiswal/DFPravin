@@ -9,7 +9,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"container": "saibaba"
+				"container": "saibaba1"
 			},
 			"columnDelimiter": "$",
 			"escapeChar": "\\",
