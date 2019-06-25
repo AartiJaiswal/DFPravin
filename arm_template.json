@@ -68,7 +68,7 @@
                 "typeProperties": {
                     "location": {
                         "type": "AzureBlobStorageLocation",
-                        "container": "demopravindestination"
+                        "container": "trackchange"
                     },
                     "columnDelimiter": ",",
                     "escapeChar": "\\",
