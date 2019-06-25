@@ -212,7 +212,7 @@
 				],
 				"type": "BlobEventsTrigger",
 				"typeProperties": {
-					"blobPathBeginsWith": "/saibaba1/blobs/",
+					"blobPathBeginsWith": "/saibaba2/blobs/",
 					"scope": "[parameters('trigger1_properties_typeProperties_scope')]",
 					"events": [
 						"Microsoft.Storage.BlobCreated",
