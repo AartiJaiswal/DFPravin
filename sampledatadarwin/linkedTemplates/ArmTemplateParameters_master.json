@@ -11,6 +11,9 @@
 		"AzureBlobStorage2_connectionString": {
 			"value": ""
 		},
+		"trigger1_properties_typeProperties_scope": {
+			"value": "/subscriptions/51c23754-408e-4fc6-b898-1d1e78563f12/resourceGroups/demopravin123/providers/Microsoft.Storage/storageAccounts/demopravin"
+		},
 		"containerUri": {
 			"value": ""
 		},
