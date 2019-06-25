@@ -7,10 +7,6 @@
 			"metadata": "Data Factory Name",
 			"defaultValue": "sampledatadarwin"
 		},
-		"AzureBlobStoragepravin_connectionString": {
-			"type": "secureString",
-			"metadata": "Secure string for 'connectionString' of 'AzureBlobStoragepravin'"
-		},
 		"AzureBlobStorage1_connectionString": {
 			"type": "secureString",
 			"metadata": "Secure string for 'connectionString' of 'AzureBlobStorage1'"
@@ -49,9 +45,6 @@
 				"parameters": {
 					"factoryName": {
 						"value": "[parameters('factoryName')]"
-					},
-					"AzureBlobStoragepravin_connectionString": {
-						"value": "[parameters('AzureBlobStoragepravin_connectionString')]"
 					},
 					"AzureBlobStorage1_connectionString": {
 						"value": "[parameters('AzureBlobStorage1_connectionString')]"
