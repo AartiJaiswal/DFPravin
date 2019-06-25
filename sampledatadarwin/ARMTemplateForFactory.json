@@ -148,7 +148,7 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobStorageLocation",
-						"container": "saibaba1"
+						"container": "demo"
 					},
 					"columnDelimiter": "$",
 					"escapeChar": "\\",
